@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/asantibanez/livewire-charts.svg)](https://github.com/asantibanez/livewire-charts/releases/)
+[![GitHub release](https://img.shields.io/github/release/claudio1994-oliveira/livewire-charts.svg)](https://github.com/claudio1994-oliveira/livewire-charts/releases/)
 
 ![Livewire Charts](https://banners.beyondco.de/Livewire%20Charts.png?theme=light&packageName=asantibanez%2Flivewire-charts&pattern=graphPaper&style=style_1&description=Neat+Livewire+Charts+for+your+Laravel+projects&md=1&fontSize=100px&images=chart-square-bar)
 
@@ -7,16 +7,12 @@
 ![preview](https://github.com/asantibanez/livewire-charts/raw/master/preview.gif)
 ![preview](./preview_radarchart.gif)
 
-## Demo
-
-https://github.com/asantibanez/livewire-charts-demo
-
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require asantibanez/livewire-charts
+composer require claudio1994-oliveira/livewire-charts
 ```
 
 Next, you must export the package public scripts. To do this run 
@@ -90,7 +86,7 @@ Next, include the `@livewireChartsScripts` directive next to your other app scri
 
 And that's it! You have a beautiful rendered chart in seconds. 👌
 
-![column chart example](https://github.com/asantibanez/livewire-charts/raw/master/column-chart-example.png)
+![column chart example](https://github.com/claudio1994-oliveira/livewire-charts/raw/master/column-chart-example.png)
 
 >Note: You can use these charts inside other Livewire components too. Just render them in your Blade template and you
 are good to go. 👍 
