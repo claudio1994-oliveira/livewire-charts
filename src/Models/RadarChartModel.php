@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace ClOliveira\LivewireCharts\Models;
 
 /**
  * Class ColumnChartModel
- * @package Asantibanez\LivewireCharts\Models
+ * @package ClOliveira\LivewireCharts\Models
  * @property boolean $isMultiColumn
  * @property boolean $isStacked
  */

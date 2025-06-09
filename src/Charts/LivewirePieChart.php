@@ -1,13 +1,13 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Charts;
+namespace ClOliveira\LivewireCharts\Charts;
 
-use Asantibanez\LivewireCharts\Models\PieChartModel;
+use ClOliveira\LivewireCharts\Models\PieChartModel;
 use Livewire\Component;
 
 /**
  * Class PieChart
- * @package Asantibanez\LivewireCharts\Charts
+ * @package ClOliveira\LivewireCharts\Charts
  */
 class LivewirePieChart extends Component
 {

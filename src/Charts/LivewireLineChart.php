@@ -1,13 +1,13 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Charts;
+namespace ClOliveira\LivewireCharts\Charts;
 
-use Asantibanez\LivewireCharts\Models\LineChartModel;
+use ClOliveira\LivewireCharts\Models\LineChartModel;
 use Livewire\Component;
 
 /**
  * Class LivewireLineChart
- * @package Asantibanez\LivewireCharts\Charts
+ * @package ClOliveira\LivewireCharts\Charts
  */
 class LivewireLineChart extends Component
 {

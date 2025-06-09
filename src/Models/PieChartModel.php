@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace ClOliveira\LivewireCharts\Models;
 
 /**
  * Class PieChartModel
- * @package Asantibanez\LivewireCharts\Models
+ * @package ClOliveira\LivewireCharts\Models
  */
 class PieChartModel extends BaseChartModel
 {

@@ -1,8 +1,8 @@
 <?php
 
 
-use Asantibanez\LivewireCharts\Charts\LivewireRadialChart;
-use Asantibanez\LivewireCharts\Tests\TestCase;
+use ClOliveira\LivewireCharts\Charts\LivewireRadialChart;
+use ClOliveira\LivewireCharts\Tests\TestCase;
 use Livewire\Features\SupportTesting\Testable;
 use Livewire\Livewire;
 

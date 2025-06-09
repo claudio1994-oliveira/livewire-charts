@@ -1,19 +1,19 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Facades;
+namespace ClOliveira\LivewireCharts\Facades;
 
-use Asantibanez\LivewireCharts\Models\AreaChartModel;
-use Asantibanez\LivewireCharts\Models\ColumnChartModel;
-use Asantibanez\LivewireCharts\Models\LineChartModel;
-use Asantibanez\LivewireCharts\Models\PieChartModel;
-use Asantibanez\LivewireCharts\Models\RadarChartModel;
-use Asantibanez\LivewireCharts\Models\RadialChartModel;
-use Asantibanez\LivewireCharts\Models\TreeMapChartModel;
+use ClOliveira\LivewireCharts\Models\AreaChartModel;
+use ClOliveira\LivewireCharts\Models\ColumnChartModel;
+use ClOliveira\LivewireCharts\Models\LineChartModel;
+use ClOliveira\LivewireCharts\Models\PieChartModel;
+use ClOliveira\LivewireCharts\Models\RadarChartModel;
+use ClOliveira\LivewireCharts\Models\RadialChartModel;
+use ClOliveira\LivewireCharts\Models\TreeMapChartModel;
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class LivewireCharts
- * @package Asantibanez\LivewireCharts\Facades
+ * @package ClOliveira\LivewireCharts\Facades
  * @method static LineChartModel lineChartModel()
  * @method static LineChartModel multiLineChartModel()
  * @method static ColumnChartModel columnChartModel()

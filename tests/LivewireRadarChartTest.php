@@ -1,8 +1,8 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Tests;
+namespace ClOliveira\LivewireCharts\Tests;
 
-use Asantibanez\LivewireCharts\Charts\LivewireRadarChart;
+use ClOliveira\LivewireCharts\Charts\LivewireRadarChart;
 use Livewire\Features\SupportTesting\Testable;
 use Livewire\Livewire;
 

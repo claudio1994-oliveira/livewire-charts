@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace ClOliveira\LivewireCharts\Models;
 
 /**
  * Class TreeMapChartModel
- * @package Asantibanez\LivewireCharts\Models
+ * @package ClOliveira\LivewireCharts\Models
  */
 class TreeMapChartModel extends BaseChartModel
 {

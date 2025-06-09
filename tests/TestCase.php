@@ -1,8 +1,8 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Tests;
+namespace ClOliveira\LivewireCharts\Tests;
 
-use Asantibanez\LivewireCharts\LivewireChartsServiceProvider;
+use ClOliveira\LivewireCharts\LivewireChartsServiceProvider;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
 

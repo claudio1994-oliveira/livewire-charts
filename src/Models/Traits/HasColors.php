@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models\Traits;
+namespace ClOliveira\LivewireCharts\Models\Traits;
 
 
 trait HasColors

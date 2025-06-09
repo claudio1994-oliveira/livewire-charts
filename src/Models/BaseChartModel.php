@@ -1,23 +1,23 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace ClOliveira\LivewireCharts\Models;
 
-use Asantibanez\LivewireCharts\Models\Traits\HasAnimation;
-use Asantibanez\LivewireCharts\Models\Traits\HasAxis;
-use Asantibanez\LivewireCharts\Models\Traits\HasColors;
-use Asantibanez\LivewireCharts\Models\Traits\HasDataLabels;
-use Asantibanez\LivewireCharts\Models\Traits\HasGrid;
-use Asantibanez\LivewireCharts\Models\Traits\HasJsonConfig;
-use Asantibanez\LivewireCharts\Models\Traits\HasLegend;
-use Asantibanez\LivewireCharts\Models\Traits\HasSparkline;
-use Asantibanez\LivewireCharts\Models\Traits\HasStroke;
-use Asantibanez\LivewireCharts\Models\Traits\HasTheme;
-use Asantibanez\LivewireCharts\Models\Traits\HasTitle;
+use ClOliveira\LivewireCharts\Models\Traits\HasAnimation;
+use ClOliveira\LivewireCharts\Models\Traits\HasAxis;
+use ClOliveira\LivewireCharts\Models\Traits\HasColors;
+use ClOliveira\LivewireCharts\Models\Traits\HasDataLabels;
+use ClOliveira\LivewireCharts\Models\Traits\HasGrid;
+use ClOliveira\LivewireCharts\Models\Traits\HasJsonConfig;
+use ClOliveira\LivewireCharts\Models\Traits\HasLegend;
+use ClOliveira\LivewireCharts\Models\Traits\HasSparkline;
+use ClOliveira\LivewireCharts\Models\Traits\HasStroke;
+use ClOliveira\LivewireCharts\Models\Traits\HasTheme;
+use ClOliveira\LivewireCharts\Models\Traits\HasTitle;
 
 /**
  * Class BaseChartModel
- * @package Asantibanez\LivewireCharts\Models
+ * @package ClOliveira\LivewireCharts\Models
  */
 class BaseChartModel
 {
