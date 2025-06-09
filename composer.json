@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Oliveira\\LivewireCharts\\": "src"
+            "ClOliveira\\LivewireCharts\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Oliveira\\LivewireCharts\\Tests\\": "tests"
+            "ClOliveira\\LivewireCharts\\Tests\\": "tests"
         }
     },
     "scripts": {
